@@ -1,0 +1,7 @@
+ConnectionProvider.class
+LoginServlet.class
+DashboardServlet.class
+com\mycompany\registrationsystem\resources\JakartaEE10Resource.class
+com\mycompany\registrationsystem\JakartaRestConfiguration.class
+RegServlet.class
+com\mycompany\registrationsystem\ConnectionProvider1.class
